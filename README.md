@@ -1,5 +1,7 @@
 # Computer Networks Machine Problem 2: Routing Protocols 
 
+[2024-1 서강대학교 컴퓨터네트워크 mp2]
+
 네트워크 라우팅의 두 가지 알고리즘 **Distance Vector**와 **Link State**을 구현했습니다. 각 알고리즘은 네트워크 환경에서 각 라우터의 라우팅 테이블을 생성하고, 네트워크 토폴로지의 변화에 따라 이를 업데이트하는 시뮬레이션을 수행합니다.
 
 ## 프로젝트 개요
